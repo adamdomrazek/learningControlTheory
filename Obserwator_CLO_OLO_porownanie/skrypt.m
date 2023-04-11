@@ -8,7 +8,7 @@
 clc
 clear
 
-%% odpalić żeby mieć parametry w simulinku
+%% Parametry do simulinka
 S  = 1;
 K  = 0.02; 
 c1 = 1;
