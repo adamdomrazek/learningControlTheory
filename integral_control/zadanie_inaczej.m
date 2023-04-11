@@ -29,7 +29,7 @@ R=diag([10 10]);
 
 N=0;
 
-%% najpierw zrobiliśmy na piechotę przez lqr ale jest do tego dedykowana funkcja lqi
+%% Można użyć lqr() do rozszerzonego systemu lub lqi() do nie rozszerzonego
 
 % % System rozszerzony
 % sys = ss(Aa, Ba, Ea, [0]);
